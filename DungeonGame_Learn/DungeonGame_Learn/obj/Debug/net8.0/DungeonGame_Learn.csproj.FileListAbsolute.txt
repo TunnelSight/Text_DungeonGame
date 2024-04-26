@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.AssemblyInfo.cs
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\bin\Debug\net8.0\DungeonGame_Learn.exe
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\bin\Debug\net8.0\DungeonGame_Learn.deps.json
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\bin\Debug\net8.0\DungeonGame_Learn.runtimeconfig.json
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\bin\Debug\net8.0\DungeonGame_Learn.dll
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\bin\Debug\net8.0\DungeonGame_Learn.pdb
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.dll
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\refint\DungeonGame_Learn.dll
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.pdb
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\DungeonGame_Learn.genruntimeconfig.cache
+C:\Users\USER\source\repos\DungeonGame_Learn\DungeonGame_Learn\obj\Debug\net8.0\ref\DungeonGame_Learn.dll
